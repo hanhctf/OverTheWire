@@ -1,0 +1,20 @@
+# Dirsearch started Tue Jan 30 07:06:42 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://natas2.natas.labs.overthewire.org/files/
+
+403   298B   http://natas2.natas.labs.overthewire.org/files/.ht_wsr.txt
+403   298B   http://natas2.natas.labs.overthewire.org/files/.htaccess.bak1
+403   298B   http://natas2.natas.labs.overthewire.org/files/.htaccess.orig
+403   298B   http://natas2.natas.labs.overthewire.org/files/.htaccess.sample
+403   298B   http://natas2.natas.labs.overthewire.org/files/.htaccess.save
+403   298B   http://natas2.natas.labs.overthewire.org/files/.htaccess_extra
+403   298B   http://natas2.natas.labs.overthewire.org/files/.htaccess_orig
+403   298B   http://natas2.natas.labs.overthewire.org/files/.htaccessBAK
+403   298B   http://natas2.natas.labs.overthewire.org/files/.htaccess_sc
+403   298B   http://natas2.natas.labs.overthewire.org/files/.htaccessOLD2
+403   298B   http://natas2.natas.labs.overthewire.org/files/.htaccessOLD
+403   298B   http://natas2.natas.labs.overthewire.org/files/.htm
+403   298B   http://natas2.natas.labs.overthewire.org/files/.html
+403   298B   http://natas2.natas.labs.overthewire.org/files/.htpasswds
+403   298B   http://natas2.natas.labs.overthewire.org/files/.htpasswd_test
+403   298B   http://natas2.natas.labs.overthewire.org/files/.httr-oauth
+403   298B   http://natas2.natas.labs.overthewire.org/files/.php
+403   298B   http://natas2.natas.labs.overthewire.org/files/error.tmpl
